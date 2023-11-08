@@ -1,0 +1,109 @@
+.image{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.bar-html{
+    width: 100%;
+    background-color: grey;
+}
+.graph-1{
+    text-align: right;
+    padding: 1px;
+}
+.bar-html{
+    width: 75%;
+    background-color: rgb(13, 63, 230);
+}
+p{
+    margin-bottom: 2px;
+}
+.bar-css{
+    width: 100%;
+    background-color: grey;
+}
+.graph-2{
+    text-align: right;
+    padding: 1px;
+}
+.bar-css{
+width: 60%;
+background-color: rgb(13, 63, 230);
+}
+.bar-c{
+    width: 100%;
+    background-color: grey;
+}
+.graph-3{
+    text-align: right;
+    padding: 1px;
+}
+.bar-c{
+    width: 100%;
+    background-color: rgb(13, 63, 230);
+    
+}
+bar-c{
+    width: 100%;
+    background-color: grey;
+}
+.graph-4{
+    text-align: right;
+    padding: 1px;
+}
+.bar-cc{
+    width: 100%;
+    background-color: rgb(13, 63, 230);
+}
+.bar-dsa{
+    width: 78%;
+    background-color: grey;
+}
+.graph-5{
+    text-align: right;
+    padding: 1px;
+}
+.bar-dsa{
+    width: 78%;
+    background-color: rgb(13, 63, 230);
+}
+.image-cont{
+    color: aliceblue;
+    background-color: rgb(95, 125, 225);
+    margin-bottom: 0%;
+    padding: 10px;
+}
+.left-info{
+    color: white;
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.left-cont{
+    margin: 20px;
+}
+div{
+    margin: 1px;
+}
+.image-cont{
+    text-align: center;
+}
+.main_cont{
+    display: flex;
+    border: 2px solid black;
+}
+.educ{
+    line-height: 20px;
+}
+.right-cont{
+    padding: 20px;
+}
+.skills-info{
+    margin: 20px;
+}
+.contact{
+    margin: 20px;
+}
+.certi{
+    margin: 20px;
+}
